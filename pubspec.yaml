@@ -1,0 +1,11 @@
+name: voxproc
+description: Procedural content generation (BSP dungeons, cellular caves, autotiling, Poisson disk sampling) for Dart games.
+version: 0.1.0
+homepage: https://github.com/soulwax/voxproc
+repository: https://github.com/soulwax/voxproc
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  test: ^1.24.0
