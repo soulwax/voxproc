@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" width="88" alt="voxproc logo"/>
+</p>
+
 # voxproc
 
 Procedural content generation (BSP dungeons, cellular caves, autotiling, and Poisson disk sampling) for Dart games.
